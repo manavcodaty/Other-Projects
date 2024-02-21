@@ -22,6 +22,6 @@ class booking():
         print(self.price)
     
     
-def ask_for_booking():
-    booking = booking.get_booking()
+
+    
     
